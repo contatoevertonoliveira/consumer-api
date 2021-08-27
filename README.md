@@ -1,27 +1,33 @@
-# Consumir API
+# Projeto Consumindo API
 
 ## API
 
-Criar um API
-- [X] Iniciar o projeto `npm init -y`
-- [X] Instalar as dependências `npm i express nodemon cors axios`
-- [X] Criar uma rota para acessar a API
+Criando uma API
+- [X] Iniciando o projeto
+- [X] Instalando as dependências
+- [X] Criando uma rota para acessar a API
 - [X] Servir a API
-- [X] Habilitar o CORS
-- [X] Habilitar o nodemon para reiniciar o server
+- [X] Habilitando o CORS
+- [X] Habilitando o nodemon para reiniciar o servidor
 
-## FrontEnd
+## Front-End
 Consumir API
 
-- [ ] Utilizar fetch para consumir nossa API Backend
-- [ ] Explicar Promise - Async/Await
-- [ ] Usar try/catch
-- [ ] Mostrar a resposta na tela
+- [X] Utilizando "fetch" para consumir a nossa API do Backend
+- [X] Promise - Async|Await
+- [X] Usando try|catch
+- [X] Mostrando a resposta no HTML
 
-## BackEnd
+## Back-End
 Consumir API
 
-- [X] jsonplaceholder (https://jsonplaceholder.typicode.com/users)
-- [ ] usar axios
-- [ ] semelhanças entre axios e fetch
-- [ ] usar try/catch
+- [X] Usando API pública para estudo |jsonplaceholder| (https://jsonplaceholder.typicode.com/users)
+- [X] Usando o axios
+- [X] As semelhanças entre o |axios| e |fetch|
+- [X] Usaando o try|catch
+
+
+
+
+
+Projeto base de estudo, feito por Everton Oliveira.
