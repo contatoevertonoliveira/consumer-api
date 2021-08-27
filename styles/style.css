@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#root{
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+#tbUsers{
+  padding: 10px;
+  border: 5px solid green;
+  font-family: 'Poppins', sans-serif;
+}
+
+#tbUsers th{
+  background: yellowgreen;
+  padding: 10px;
+  border: 1px solid blue;
+}
+
+#tbUsers td{
+  padding: 10px;
+  border: 1px solid blue;
+  text-align: center;
+}
